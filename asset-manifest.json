@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Pricing/static/css/main.a93d7565.css",
+    "main.js": "/React-Pricing/static/js/main.81514912.js",
+    "static/js/440.b9ebd15b.chunk.js": "/React-Pricing/static/js/440.b9ebd15b.chunk.js",
+    "index.html": "/React-Pricing/index.html",
+    "main.a93d7565.css.map": "/React-Pricing/static/css/main.a93d7565.css.map",
+    "main.81514912.js.map": "/React-Pricing/static/js/main.81514912.js.map",
+    "440.b9ebd15b.chunk.js.map": "/React-Pricing/static/js/440.b9ebd15b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a93d7565.css",
+    "static/js/main.81514912.js"
+  ]
+}
