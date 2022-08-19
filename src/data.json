@@ -1,0 +1,48 @@
+[
+    {
+      "title": "Starter",
+      "yearPrice": 40,
+      "monthPrice": 2,
+      "priceSymbol": "$",
+      "info": "The basics for personal projects, hobby sites, or experiments.",
+      "features": [
+        "Deploy to global network",
+        "Live preview",
+        "collaboration UI for team members"
+      ],
+      "buyBtn": "Buy Starter",
+      "theme": "#56D814"
+    },
+    {
+      "title": "Pro",
+      "yearPrice": 85,
+      "monthPrice": 2,
+      "priceSymbol": "$",
+      "info": "Advanced features and support for private organization",
+      "features": [
+        "Deploy to global network",
+        "Live preview",
+        "collaboration UI for team members",
+        "Background Functions"
+      ],
+      "buyBtn": "Buy Pro",
+      "theme": "#FF5D2C"
+    },
+    {
+      "title": "Enterprise",
+      "yearPrice": 100,
+      "monthPrice": 2,
+      "priceSymbol": "$",
+      "info": "A custom plan with services tailored to team and performance requirements.",
+      "features": [
+        "Deploy to global network",
+        "Live preview",
+        "collaboration UI for team members",
+        "Background Functions",
+        "99.99% uptime SLA",
+        "24×7×365 premium support"
+      ],
+      "buyBtn": "Contact us",
+      "theme": "#6C22D9"
+    }
+  ]
